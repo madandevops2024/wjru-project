@@ -1,1 +1,3 @@
 Added main  menu
+
+Added menu item 'Build'
