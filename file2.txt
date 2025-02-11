@@ -1,3 +1,5 @@
 Added main  menu
 
 Added menu item 'Build'
+Added 'Add to cart' button
+
