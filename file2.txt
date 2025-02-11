@@ -1,1 +1,3 @@
 Added main  menu
+
+Added 'Add to cart' button
